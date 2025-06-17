@@ -1,0 +1,1 @@
+use as cetas do computador para levar o veículo com alimentos do campo até a cidade desviando dos obstáculos, se encostar ou batera em algum obstáculo o veículo volta ao início. Quando chegar até a cidade você ganha o jogo.
